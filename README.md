@@ -1,2 +1,2 @@
 # Movie-Recommendation-System-in-R
-A project about the analysis of movies and their recommendation
+The Movie Recommendation System project in R involves leveraging collaborative filtering techniques to provide personalized movie recommendations to users.
